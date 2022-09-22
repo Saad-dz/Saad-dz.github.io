@@ -1,0 +1,21 @@
+<rdf:RDF xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:orci="https://orcid.org/"
+	xmlns:spid="https://github.com/ldspider/ldspider"
+    xmlns:srun="https://github.com/berezovskyi/ldspider-runner"
+    xmlns:admin="http://www.infowebmaster.fr/hebergeur_gratuit_sans_pub.php">
+	
+
+<foaf:title>M.</foaf:title>
+<foaf:givenname>Saad</foaf:givenname>
+<foaf:family_name>Siouane</foaf:family_name>
+<foaf:mbox_sha1sum>d14930bd11472c1b9d3b5604aa7c3d231a69a030</foaf:mbox_sha1sum>
+<foaf:mbox rdf:resource="mailto:saad.siouane@etudiant.univ-lr.fr.com"/>
+<foaf:homepage rdf:resource="https://saad-dz.github.io/"/>
+<foaf:phone rdf:resource="tel:0744564730"/>
+<foaf:dateOfBirth>1988-07-24</foaf:dateOfBirth>
+<foaf:schoolHomepage rdf:resource="https://www.univ-larochelle.fr/"/>
+</foaf:Person>
+
+	
+	
+
