@@ -6,7 +6,6 @@
       xmlns:admin="http://webns.net/mvcb/">
 
 <foaf:Person rdf:ID="me">
-<foaf:name>Andy Gueritz</foaf:name>
 <foaf:title>Mr</foaf:title>
 <foaf:givenname>Saad</foaf:givenname>
 <foaf:family_name>Siouane</foaf:family_name>
